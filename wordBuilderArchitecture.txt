@@ -1,0 +1,13 @@
+
+playerStats
+ what words are unlocked, upgrades etc
+
+LetterCardBehavior
+does animation and sounds
+
+
+LetterCollision
+checks collision find right word that's colliding. 
+
+Letter
+contains all info about the current letter
